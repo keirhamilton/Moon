@@ -23,7 +23,7 @@ _USF & Patel College of Global Sustainability_: Arbor Day Ceremony - Spoke on th
 
 ## Peer-Reviewed Journal Articles
 
-_Accuracy of volunteer-derived inventory data from a single-day crowd-sourcing event._ (Submitted for Initial Review) 
+_Accuracy of volunteer-derived inventory data from a single-day crowd-sourcing event._ (Submitted for initial review) <a href="http://joa.isa-arbor.com/">Arboriculture & Urban Forestry</a>
 
 ## Relevant Coursework
 
