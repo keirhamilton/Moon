@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>Department of Environmental Horticulture, CLCE, IFAS, University of Florida, 100A Mehrhof Hall, Gainesville, FL 32611, United States. <a href="mailto:keirhamilton@ufl.edu">keirhamilton@ufl.edu</a>   
+<center>Department of Environmental Horticulture, CLCE, IFAS, University of Florida, 100A Mehrhof Hall, Gainesville, FL 32611, United States. Email: <a href="mailto:keirhamilton@ufl.edu">keirhamilton@ufl.edu</a>   
  </center>
 
 I am a graduate student at the University of Florida, working towards a M.Sc., in Environmental Horticulture and a Minor: Geomatics. Masters Thesis: _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_. Post-graduation, I will apply for a Ph.D./ DPM in Environmental Horticulture. In the future, I plan to work for an innovative agribusiness or geospatial firm.
