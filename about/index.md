@@ -8,7 +8,7 @@ comments: false
     
 <center> Keir Hamilton </center>
 
-I am a graduate student at the University of Florida, working towards a M.Sc., in Environmental Horticulture and a Minor: Geomatics. My Masters Thesis: Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems. Post-graduation, I will apply for a Ph.D./ DPM in Environmental Horticulture. In the future, I plan to work for an innovative agribusiness or geospatial firm.
+I am a graduate student at the University of Florida, working towards a M.Sc., in Environmental Horticulture and a Minor: Geomatics. Masters Thesis: _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_. Post-graduation, I will apply for a Ph.D./ DPM in Environmental Horticulture. In the future, I plan to work for an innovative agribusiness or geospatial firm.
 
 ## Professional Experience
 
