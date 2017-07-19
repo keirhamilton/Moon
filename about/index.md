@@ -17,14 +17,14 @@ I'm a graduate student at the University of Florida, working towards a M.Sc., in
 ## Professional Experience
 
 * _UF & USF Water Institute_: Thermographic Stress Analysis on _Quercus virginiana Mill._ (live oak). Measured chlorophyll flourescence, midday leaf water potential and captured themral images of _Q. virginiana Mill_.
-- June 7th 2015 -- June 14th 2015
+    -June 7th 2015 -- June 14th 2015
 
 *_USF & Patel College of Global Sustainability_: Arbor Day Ceremony Lectured on the importance of crowdsourcing data through an iOS application, <a href="http://tampatreemap.usf.edu/">Tampa Tree Map</a>
--July 2016
+    -July 2016
 
 *Carrollwood Day School, Presentation:
 Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) found in (n=5) popular water bottle brands. 
-- February 9th, 2017
+    - February 9th, 2017
 
 ## Peer-Reviewed Journal Articles
 
