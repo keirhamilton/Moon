@@ -12,6 +12,10 @@ I am a graduate student at the University of Florida, working towards a M.Sc., i
 
 ## Professional Experience
 
+_UF & USF Water Institute_: Thermographic Stress Analysis on _Quercus virginiana Mill._ (live oak). 
+- June 7th 2015 -- June 14th 2015
+
+
 ## Publications
 
 ## Relevant Coursework
