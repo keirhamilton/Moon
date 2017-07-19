@@ -6,8 +6,11 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>Department of Environmental Horticulture, CLCE, IFAS, University of Florida, 100A Mehrhof Hall, Gainesville, FL 32611, United States. Email: <a href="mailto:keirhamilton@ufl.edu">keirhamilton@ufl.edu</a>   
- </center>
+<center>
+<b>
+Department of Environmental Horticulture, CLCE, IFAS, University of Florida, 100A Mehrhof Hall, Gainesville, FL 32611, United States. Email: <a href="mailto:keirhamilton@ufl.edu">keirhamilton@ufl.edu</a>
+</b>
+</center>
 
 I am a graduate student at the University of Florida, working towards a M.Sc., in Environmental Horticulture and a Minor: Geomatics. Masters Thesis: _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_. Post-graduation, I will apply for a Ph.D./ DPM in Environmental Horticulture. In the future, I plan to work for an innovative agribusiness or geospatial firm.
 
@@ -18,7 +21,7 @@ _UF & USF Water Institute_: Thermographic Stress Analysis on _Quercus virginiana
 
 _USF & Patel College of Global Sustainability_: Arbor Day Ceremony - Spoke on the importance of crowdsourcing data through an iOS application, <a href="http://tampatreemap.usf.edu/">Tampa Tree Map</a>
 
-## Publications
+## Peer-Reviewed Journal Articles
 
 _Accuracy of volunteer-derived inventory data from a single-day crowd-sourcing event._ (Submitted for Initial Review) 
 
