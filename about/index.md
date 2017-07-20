@@ -39,17 +39,36 @@ _Accuracy of volunteer-derived inventory data from a single-day crowd-sourcing e
 
 ## Education
 
-* M.Sc., Environmental Horticulture, Minor: Geomatics, University of Florida (UF). Thesis Title: _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_
-    * August 2016--August 2018
+- M.Sc., Environmental Horticulture, Minor: Geomatics, University of Florida (UF). Thesis Title: _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_
+    - August 2016--August 2018
 
 
-* B.Sc., Environmental Science & Policy, University of South Florida (USF)
-    * August 2013--July 2016
+- B.Sc., Environmental Science & Policy, University of South Florida (USF)
+    - August 2013--July 2016
 
 
-* A.A., Hillsborough Community College (HCC)
-    * August 2009--August 2013
+- A.A., Hillsborough Community College (HCC)
+    - August 2009--August 2013
 
 ## Skills
 
+- Geospatial Software: QGIS, ArcGIS
+
+- Programming Languages: Python, R, Ruby
+
+- Microsoft Office Suite (e.g., Word, Excel, PowerPoint, Outlook)
+
+- Technical Writing
+
+- Communication
+
+- Organization
+
+- Survey Equip:
+
+    - Metric Fabric DBH Tape (Model: 283D/5M)
+
+    - Forestry Pro Laser Rangefinder/ Hypsometer
+
+    - Digital Static Cone Penetrometer (DSCP) (Model: HS-4210)
 
