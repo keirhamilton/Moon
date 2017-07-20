@@ -4,11 +4,7 @@ title:  "Classifying Coheesive Soils"
 date:   2017-07-03
 excerpt: "Classifying Coheesive Soils with a Static Cone Penetrometer"
 tag:
-- markdown 
-- mathjax
-- example
-- test
-- jekyll
+-Ulmus alata
 comments: true
 ---
 
