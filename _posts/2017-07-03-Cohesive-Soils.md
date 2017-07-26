@@ -10,4 +10,6 @@ comments: true
 
  Hey!
 
- This image was captured right before I tested the soil quality around the _Ulmus alata_ (winged elm), with the DSCP (1kg /cm^{2}) 
+ This image was captured right before I tested the soil quality around an _Ulmus alata_ (winged elm) with the DSCP (Digital Static Cone Penetrometer).
+
+ The operator of the DSCP applies weight (<250lbs) to the handles of the instrument to classify soils. 
