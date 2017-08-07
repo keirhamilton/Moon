@@ -13,12 +13,12 @@ Department of Environmental Horticulture, CLCE, IFAS, University of Florida, 100
 </center>
 
 
-I'm a graduate student at the University of Florida, working towards a M.Sc., in Environmental Horticulture and a Minor: Geomatics. My Masters Thesis investigates: _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_. Post-graduation, I will apply for a Ph.D./ DPM in Environmental Horticulture. In the future, I plan to work for an innovative agribusiness or geospatial firm.
+I'm a graduate student at the University of Florida, working towards a M.Sc. degree in Environmental Horticulture and a Minor: Geomatics. My Masters Thesis investigates: the _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_. Moreover, I'm interested in vectorizing root models with open-source software, to elucidate and manipulate root-related traits in common landscaping plants. Post-graduation I will apply for a Ph.D./ DPM in an ecological or interdisciplinary field(s). In the future, I plan to work for an innovative agribusiness or geospatial firm.
 
 
 ## Professional Experience
 
-* _UF & USF Water Institute_: Thermographic Stress Analysis on (n=20) _Quercus virginiana Mill._ (live oak). Measured chlorophyll flourescence, midday leaf water potential and captured themral images of _Q. virginiana Mill_.
+* _UF & USF Water Institute_: Thermographic Stress Analysis on (n=20) _Quercus virginiana Mill._ (live oak). Measured chlorophyll flourescence, midday leaf water potential and captured themral images in the canopy of _Q. virginiana Mill_.
     * June 7th 2015 -- June 14th 2015
 
 * _USF & Patel College of Global Sustainability_: Arbor Day Ceremony Lectured on the importance of crowdsourcing data through an iOS application, <a href="http://tampatreemap.usf.edu/">Tampa Tree Map</a>
@@ -74,4 +74,6 @@ _Accuracy of volunteer-derived inventory data from a single-day crowd-sourcing e
     - Forestry Pro Laser Rangefinder/ Hypsometer
 
     - Digital Static Cone Penetrometer (DSCP) (Model: HS-4210)
+
+    - Soil Moisture Meter Probe
 
