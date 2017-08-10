@@ -24,16 +24,16 @@ I'm a graduate student at the University of Florida, working towards a M.Sc. deg
 * _USF & Patel College of Global Sustainability_: Arbor Day Ceremony Lectured on the importance of crowdsourcing data through an iOS application, <a href="http://tampatreemap.usf.edu/">Tampa Tree Map</a>
     * July 2016
 
+* Documenting Grey-to-Green: _A decision support tool (DST) developed to mitigate nutrient runoff volumes through the implimentation of green infrastructure. Landscape architects, site developers and urban planners will use this GIS and Excel tool for its social, environmental and economic benefits._
+    * July 2016--Current
+
 * Carrollwood Day School, Presentation:
 Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) found in (n=5) popular water bottle brands. 
     * February 9th, 2017
 
-* Documenting Grey-to-Green: _A decision support tool (DST) developed to mitigate nutrient runoff volumes through the implimentation of green infrastructure. Landscape architects, site developers and urban planners will use this GIS and Excel tool for its social, environmental and economic benefits._
-    * July 2016--Current
-
 ## Peer-Reviewed Journal Articles
 
-_Accuracy of volunteer-derived inventory data from a single-day crowd-sourcing event._ (Submitted for initial review) <a href="http://joa.isa-arbor.com/">Arboriculture & Urban Forestry</a>
+_Accuracy of volunteer-derived inventory data from a single-day crowd-sourcing event._ (Revised & Resubmitted) <a href="http://joa.isa-arbor.com/">Arboriculture & Urban Forestry</a>
 
 ## Relevant Coursework
 
