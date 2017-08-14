@@ -36,7 +36,7 @@ Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) 
 
 ## Peer-Reviewed Journal Articles
 
-_Accuracy of volunteer-derived inventory data from a single-day crowd-sourcing event._ (Revised & Resubmitted) <a href="http://joa.isa-arbor.com/">Arboriculture & Urban Forestry</a>
+[1]_Accuracy of volunteer-derived inventory data from a single-day crowd-sourcing event._ (Revised & Resubmitted) <a href="http://joa.isa-arbor.com/">Arboriculture & Urban Forestry</a>
 
 ## Relevant Coursework
 
