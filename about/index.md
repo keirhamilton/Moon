@@ -27,7 +27,7 @@ I'm a graduate student at the University of Florida, working towards a M.Sc. deg
 * Documenting Grey-to-Green: _A decision support tool (DST) developed to mitigate nutrient runoff volumes through the implimentation of green infrastructure. Landscape architects, site developers and urban planners will use this GIS and Excel tool for its social, environmental and economic benefits._
     * July 2016--Current
 
-* Carrollwood Day School, Presentation:
+* Carrollwood Day School:
 Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) found in (n=5) popular water bottle brands. 
     * February 9th, 2017
 
