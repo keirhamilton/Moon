@@ -31,7 +31,7 @@ I'm a graduate student at the University of Florida, working towards a M.Sc. deg
 Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) found in (n=5) popular water bottle brands. 
     * February 9th, 2017
 
-* Apollo Beach Garden Club: _The Importance of Volunteer-Derived Data from Crowdsourcing Events_: Lectured on the power of crowdsourcing data to empower citizen scientists and providing robust open-source data to the local government 
+* Apollo Beach Garden Club: _Extraordinary Science for Ordinary People_: Lectured on the power of crowdsourcing data to empower citizen scientists through open-source web applications.
     * August 15th, 2017
 
 ## Peer-Reviewed Journal Articles
