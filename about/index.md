@@ -57,7 +57,7 @@ Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) 
 
 ## Educational Employment Experience
 
-- Teaching Assistant, Sensory Gardening (ORH 2752). Prepared plant samples in Dr. John Peterson's lab, for sensory analysis.
+- Teaching Assistant, Sensory Gardening (ORH 2752). <br />Prepared plant samples in Dr. John Peterson's lab, for sensory analysis.
     - Januarary--April 2017
 
 ## Skills
