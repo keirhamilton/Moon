@@ -13,7 +13,7 @@ Department of Environmental Horticulture, CLCE, IFAS, University of Florida, 100
 </center>
 
 
-I'm a graduate student at the University of Florida (UF), working towards a M.Sc. degree in Environmental Horticulture and a Minor: Geomatics. My Masters Thesis investigates: The _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_. Moreover, I'm interested in vectorizing root models with open-source software, to elucidate and manipulate root-related traits in common landscaping plants. Post-graduation I will apply to UF's, Doctor of Plant Medicine (DPM) Program.
+<b> Interests </b>: I'm a graduate student at the University of Florida (UF), working towards a M.Sc. degree in Environmental Horticulture and a Minor: Geomatics. My Masters Thesis investigates: The _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_. Moreover, I'm interested in vectorizing root models with open-source software, to elucidate and manipulate root-related traits in common landscaping plants. Post-graduation I will apply to UF's, Doctor of Plant Medicine (DPM) Program.
 
 ## Professional Experience
 
