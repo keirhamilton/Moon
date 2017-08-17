@@ -23,7 +23,7 @@ I'm a graduate student at the University of Florida (UF), working towards a M.Sc
 * _USF & Patel College of Global Sustainability_: Arbor Day Ceremony Lectured on the importance of crowdsourcing data through an iOS application, <a href="http://tampatreemap.usf.edu/">Tampa Tree Map</a>
     * July 2016
 
-* Documenting Grey-to-Green: _A decision support tool (DST) developed to mitigate nutrient runoff volumes through the implimentation of green infrastructure. Landscape architects, site developers and urban planners will use this geospatial tool for its' social, environmental and economic benefits._
+* Documenting Grey-to-Green: _A decision support tool (DST) developed to mitigate nutrient runoff volumes through the implimentation of green infrastructure. Landscape architects, site developers and urban planners will use the geospatial tool for its' social, environmental and economic benefits._
     * July 2016--Current
 
 * Carrollwood Day School:
@@ -44,7 +44,7 @@ Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) 
 
 ## Education
 
-- M.Sc., Environmental Horticulture, University of Florida (UF). Thesis Title: _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_
+- M.Sc., Environmental Horticulture, University of Florida (UF). Masters Thesis: _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_
     - August 2016--August 2018
 
 
