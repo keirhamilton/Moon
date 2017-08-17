@@ -33,6 +33,11 @@ Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) 
 * Hillsborough County, Apollo Beach Park & Rec.: _Extraordinary Science for Ordinary People_: Lectured on the power of crowdsourcing data to empower citizen scientists through open-source web applications.
     * August 15th, 2017
 
+## Educational Experience
+
+- Teaching Assistant, Sensory Gardening (ORH 2752). <br />Prepared plant samples in Dr. John Peterson's lab, for sensory analysis.
+    - Januarary--April 2017
+
 ## Peer-Reviewed Journal Articles
 
 [1] _Accuracy of volunteer-derived inventory data from a single-day crowd-sourcing event._ <br /> Journal: <a href="http://joa.isa-arbor.com/">Arboriculture & Urban Forestry</a>, (Revised & Resubmitted).
@@ -54,11 +59,6 @@ Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) 
 
 - A.A., Hillsborough Community College (HCC)
     - August 2009--August 2013
-
-## Educational Experience
-
-- Teaching Assistant, Sensory Gardening (ORH 2752). <br />Prepared plant samples in Dr. John Peterson's lab, for sensory analysis.
-    - Januarary--April 2017
 
 ## Skills
 
