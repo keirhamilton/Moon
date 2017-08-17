@@ -55,7 +55,7 @@ Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) 
 - A.A., Hillsborough Community College (HCC)
     - August 2009--August 2013
 
-## Educational Employment Experience
+## Educational Experience
 
 - Teaching Assistant, Sensory Gardening (ORH 2752). <br />Prepared plant samples in Dr. John Peterson's lab, for sensory analysis.
     - Januarary--April 2017
