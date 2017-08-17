@@ -17,7 +17,7 @@ Department of Environmental Horticulture, CLCE, IFAS, University of Florida, 100
 
 ## Professional Experience
 
-* _UF & USF Water Institute_: Thermographic Stress Analysis on (n=20) _Quercus virginiana Mill._ (live oak). Measured chlorophyll flourescence, midday leaf water potential and analyzed themral images in the canopy of _Q. virginiana Mill_.
+* _UF & USF Water Institute_: Thermographic Stress Analysis on (n=20) _Quercus virginiana Mill._ (live oak). Measured chlorophyll flourescence, midday leaf water potential and analyzed thermal images from the canopy of _Q. virginiana Mill_.
     * June 7th 2015 -- June 14th 2015
 
 * _USF & Patel College of Global Sustainability_: Arbor Day Ceremony Lectured on the importance of crowdsourcing data through an iOS application, <a href="http://tampatreemap.usf.edu/">Tampa Tree Map</a>
