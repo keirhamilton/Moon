@@ -13,17 +13,17 @@ Department of Environmental Horticulture, CLCE, IFAS, University of Florida, 100
 </center>
 
 
-<b> Interests: </b>I'm a graduate student at the University of Florida (UF), working towards a M.Sc. in Environmental Horticulture. My Masters Thesis investigates: The _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_. Furthermore, I'm interested in vectorizing root models with open-source software, to elucidate or manipulate root-related traits in common landscaping plants. Post-graduation I will apply to UF's, Doctor of Plant Medicine (DPM) Program.
+<b> Interests: </b>I'm a graduate student at the University of Florida (UF), working towards a M.Sc. in Environmental Horticulture. My Master’s Thesis investigates: The _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_. Furthermore, I'm interested in vectorizing root models with open-source software, to elucidate or manipulate root-related traits in common landscaping plants. Post-graduation I will apply to UF's, Doctor of Plant Medicine (DPM) Program.
 
 ## Professional Experience
 
-* _UF & USF Water Institute_: Thermographic Stress Analysis on (n=20) _Quercus virginiana Mill._ (live oak). Measured chlorophyll flourescence, midday leaf water potential and analyzed thermal images from the canopy of _Q. virginiana Mill_.
+* _UF & USF Water Institute_: Thermographic Stress Analysis on (n=20) _Quercus virginiana Mill._ (live oak). Measured chlorophyll fluorescence, midday leaf water potential and analyzed thermal images from the canopy of _Q. virginiana Mill_.
     * June 7th 2015 -- June 14th 2015
 
 * _USF & Patel College of Global Sustainability_: Arbor Day Ceremony Lectured on the importance of crowdsourcing data through an iOS application, <a href="http://tampatreemap.usf.edu/">Tampa Tree Map</a>
     * July 2016
 
-* Documenting Grey-to-Green: _A decision support tool (DST) developed to mitigate nutrient runoff volumes through the implimentation of green infrastructure. Landscape architects, site developers and urban planners will use the geospatial tool for its' social, environmental and economic benefits._
+* Documenting Grey-to-Green: _A decision support tool (DST) developed to mitigate nutrient runoff volumes through the implementation of green infrastructure. Landscape architects, site developers and urban planners will use the geospatial tool for its' social, environmental and economic benefits._
     * July 2016--Current
 
 * Carrollwood Day School:
@@ -49,7 +49,7 @@ Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) 
 
 ## Education
 
-- M.Sc., Environmental Horticulture, University of Florida (UF). Masters Thesis: _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_
+- M.Sc., Environmental Horticulture, University of Florida (UF). Master’s Thesis: _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_
     - August 2016--August 2018
 
 
