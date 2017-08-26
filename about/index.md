@@ -13,7 +13,7 @@ Department of Environmental Horticulture, CLCE, IFAS, University of Florida, 100
 </center>
 
 
-<b> Interests: </b>I'm a graduate student at the University of Florida (UF), working towards a M.Sc. in Environmental Horticulture. My Master’s Thesis investigates: The _Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems_. Furthermore, I'm interested in vectorizing root models with open-source software, to elucidate or manipulate root-related traits in common landscaping plants. Post-graduation I will apply to UF's, Doctor of Plant Medicine (DPM) Program.
+<b> Keir Hamilton</b> is a graduate student at the University of Florida (UF) working towards a M.Sc., in Environmental Horticulture. His master’s thesis investigates: The Use of Structure-from-Motion Photogrammetry to Accurately Model and Measure Mature Tree Root Systems. Furthermore, he is interested in the vectorization of root models with open-source software. Post-graduation he will broaden his studies in UF’s, Doctor of Plant Medicine (DPM) Program.
 
 ## Professional Experience
 
