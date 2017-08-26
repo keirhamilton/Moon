@@ -8,7 +8,7 @@ comments: false
     
 <center>
 <b>
-Department of Environmental Horticulture, CLCE, IFAS, University of Florida, 100A Mehrhof Hall, Gainesville, FL 32611, United States. Email: <a href="mailto:keirhamilton@ufl.edu">keirhamilton@ufl.edu</a>
+Department of Environmental Horticulture, CLCE, IFAS, University of Florida, Gainesville, FL 32611, United States. Email: <a href="mailto:keirhamilton@ufl.edu">keirhamilton@ufl.edu</a>
 </b>
 </center>
 
