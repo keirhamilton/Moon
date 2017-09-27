@@ -104,3 +104,15 @@ excerpt: "iPhone 5s: 4.15mm f/2.2"
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/151443203@N05/36685626273/in/dateposted/" title="embarcadero"><img src="https://farm5.staticflickr.com/4411/36685626273_dbd14a8477.jpg" width="281" height="500" alt="embarcadero"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/151443203@N05/37355177381/in/dateposted/" title="IMG_0157"><img src="https://farm5.staticflickr.com/4339/37355177381_eaacd03612.jpg" width="500" height="375" alt="IMG_0157"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/151443203@N05/37325686552/in/photostream/" title="IMG_0155 2"><img src="https://farm5.staticflickr.com/4374/37325686552_2535df3922.jpg" width="500" height="375" alt="IMG_0155 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/151443203@N05/37355170641/in/photostream/" title="IMG_0117 3"><img src="https://farm5.staticflickr.com/4436/37355170641_4f956bf6e8.jpg" width="375" height="500" alt="IMG_0117 3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
