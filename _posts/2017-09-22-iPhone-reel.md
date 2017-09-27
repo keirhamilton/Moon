@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "iPhone photography"
+title:  "iPhone snaps"
 date:   2017-09-24
 excerpt: "iPhone 5s: 4.15mm f/2.2"
 ---
