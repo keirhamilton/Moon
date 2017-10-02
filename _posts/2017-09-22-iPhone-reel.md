@@ -120,3 +120,7 @@ excerpt: "iPhone 5s: 4.15mm f/2.2"
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/151443203@N05/36708179454/in/photostream/" title="kqrtly"><img src="https://farm5.staticflickr.com/4474/36708179454_1ce2678977.jpg" width="500" height="375" alt="kqrtly"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/151443203@N05/37414350662/in/dateposted/" title="tails"><img src="https://farm5.staticflickr.com/4381/37414350662_f181b3509f.jpg" width="500" height="281" alt="tails"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
