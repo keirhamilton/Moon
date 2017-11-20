@@ -24,7 +24,8 @@ Department of Environmental Horticulture, CLCE, IFAS, University of Florida, Gai
     * July 2016
 
 * Technical Writing: _Transitioning from Gray to Green (G2G) – A Green Infrastructure Planning Tool for the Urban Forest_ 
-    * <br /> Website: <a href="https://gray2green.jimdo.com/">Gray2Green</a>
+    
+<br /> Website: <a href="https://gray2green.jimdo.com/">Gray2Green</a>
 
 
 * Carrollwood Day School:
