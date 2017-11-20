@@ -23,10 +23,8 @@ Department of Environmental Horticulture, CLCE, IFAS, University of Florida, Gai
 * _USF & Patel College of Global Sustainability_: Arbor Day Ceremony Lectured on the importance of crowdsourcing data through an iOS application, <a href="http://tampatreemap.usf.edu/">Tampa Tree Map</a>
     * July 2016
 
-* Technical Writing: _Transitioning from Gray to Green (G2G) – A Green Infrastructure Planning Tool for the Urban Forest_ 
-    
-<br /> Website: <a href="https://gray2green.jimdo.com/">Gray2Green</a>
-
+* Technical Writing: _Transitioning from Gray to Green (G2G) – A Green Infrastructure Planning Tool for the Urban Forest_, Website: <a href="https://gray2green.jimdo.com/">Gray2Green</a>
+    *July 2016-Current
 
 * Carrollwood Day School:
 Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) found in (n=5) popular water bottle brands. 
