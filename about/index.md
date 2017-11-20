@@ -23,7 +23,9 @@ Department of Environmental Horticulture, CLCE, IFAS, University of Florida, Gai
 * _USF & Patel College of Global Sustainability_: Arbor Day Ceremony Lectured on the importance of crowdsourcing data through an iOS application, <a href="http://tampatreemap.usf.edu/">Tampa Tree Map</a>
     * July 2016
 
-* Documenting Grey-to-Green: _A decision support tool (DST) developed to mitigate nutrient runoff volumes through the implementation of green infrastructure. Landscape architects, site developers and urban planners will use the geospatial tool for its' social, environmental and economic benefits._
+* Technical Writing: _Transitioning from Gray to Green (G2G) – A Green Infrastructure Planning Tool for the Urban Forest_ 
+
+<br /> Website: <a href="https://gray2green.jimdo.com/">Gray2Green</a>
     * July 2016--Current
 
 * Carrollwood Day School:
@@ -42,6 +44,7 @@ Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) 
 
 [1] _Accuracy of volunteer-derived inventory data from a single-day crowd-sourcing event._ <br /> Journal: <a href="http://joa.isa-arbor.com/">Arboriculture & Urban Forestry</a>, (Revised & Resubmitted).
 
+[2] _Transitioning from Gray to Green (G2G) – A Green Infrastructure Planning Tool for the Urban Forest_  <br /> Journal: <a href="https://www.elsevier.com/">Elsevier<a/>, (Initial submission). 
 ## Relevant Coursework
 
 * Programming for GIS - 6103
