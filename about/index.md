@@ -63,7 +63,7 @@ Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) 
 
 ## Skills
 
-- Geospatial Software: QGIS, ArcGIS
+- Geospatial Software: QGIS, ArcGIS, Agisoft PhotoScan Professional
 
 - Programming Languages: Python, R, Ruby
 
