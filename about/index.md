@@ -42,7 +42,7 @@ Lectured on water ecology, while investigating the Total Dissolved Solids (TDS) 
 
 [1] _Accuracy of volunteer-derived inventory data from a single-day crowd-sourcing event._ <br /> Journal: <a href="http://joa.isa-arbor.com/">Arboriculture & Urban Forestry</a>, (Revised & Resubmitted).
 
-[2] _Transitioning from Gray to Green (G2G) – A Green Infrastructure Planning Tool for the Urban Forest_  <br /> Journal: <a href="https://www.elsevier.com/">Elsevier<a/>, (Initial submission). 
+[2] _Transitioning from Gray to Green (G2G) – A Green Infrastructure Planning Tool for the Urban Forest_  <br /> Journal: <a href="https://www.journals.elsevier.com/urban-forestry-and-urban-greening">Urban Forestry & Urban Greening<a/>, (Initial submission). 
 ## Relevant Coursework
 
 * Programming for GIS - 6103
