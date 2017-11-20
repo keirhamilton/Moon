@@ -15,3 +15,4 @@ excerpt: "3650 S Main St, Gainesville, FL 32608, USA"
 	* ISO: 320
 	* Shutter: 1/50
 	* Lens: 35mm 
+* Photographer: Alex Baucom
