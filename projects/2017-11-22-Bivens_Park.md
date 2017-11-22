@@ -2,7 +2,7 @@
 layout: project
 title: "Bivens Arm Nature Park"
 excerpt: "Bivens Arm Nature Park, Gainesville, FL"
-comments: false
+comments: true
 ---
 
 
