@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "All content is in "Posts" for now"
+title: "Projects"
 excerpt: "Projects"
 comments: false
 ---
