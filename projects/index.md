@@ -1,9 +1,6 @@
 ---
-layout: projects
+layout: project
 title: "Projects"
-date:   ""
-excerpt: ""
+excerpt: "Projects"
+comments: false
 ---
-
-
-
