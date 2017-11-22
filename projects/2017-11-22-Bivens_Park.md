@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: "Bivens Arm Nature Park"
 excerpt: "Bivens Arm Nature Park, Gainesville, FL"
 comments: true
