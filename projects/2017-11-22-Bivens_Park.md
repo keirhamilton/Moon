@@ -5,7 +5,10 @@ excerpt: "Bivens Arm Nature Park, Gainesville, FL"
 comments: true
 ---
 
-
+---
+layout: posts
+title: "Bivens Arm Nature Park"
+---
 
 <iframe width="640" height="480" src="https://poly.google.com/view/cf-uZLw3h6F/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
