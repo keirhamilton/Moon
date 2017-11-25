@@ -10,7 +10,7 @@ excerpt: "3650 S Main St, Gainesville, FL 32608, USA"
 * Software: Agisoft PhotoScan Professional Ed., Version: 1.2.0, Multi-view 3D Reconstruction.
 * Camera/ Hardware:
 	* Make: Sony
-	* Model: ILCE-7SM2
+	* Model: α7S II E-mount Camera with Full-Frame Sensor (ILCE-7SM2)
 	* Focal Length: 0
 	* ISO: 320
 	* Shutter: 1/50
